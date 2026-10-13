@@ -213,4 +213,9 @@
 
 1. [Pashmak and Flowers](https://codeforces.com/problemset/problem/459/B) ([Codeforces][6])
 2. [Magic Numbers](https://codeforces.com/problemset/problem/320/A)
+   
+### Day 44 
+1.[convert-sorted-list-to-binary-search-tree](https://www.google.com/url?q=https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/&sa=D&source=editors&ust=1791861601297322&usg=AOvVaw1u_g9JzRCHVqIHXiuIy8ex)
+
+2.[maximum-number-of-vowels-in-a-substring-of-given-length](https://www.google.com/url?q=https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/&sa=D&source=editors&ust=1791861601297513&usg=AOvVaw1QT9zRQXyJ9S2QA0LvulWn)
 
