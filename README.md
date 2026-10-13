@@ -219,3 +219,7 @@
 
 2.[maximum-number-of-vowels-in-a-substring-of-given-length](https://www.google.com/url?q=https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/&sa=D&source=editors&ust=1791861601297513&usg=AOvVaw1QT9zRQXyJ9S2QA0LvulWn)
 
+### Day 45 
+1.[find-the-town-judge](https://www.google.com/url?q=https://leetcode.com/problems/find-the-town-judge/&sa=D&source=editors&ust=1791928328866903&usg=AOvVaw0b5vz9ipJ-he9888hJE6J5)
+
+2.[greatest-common-divisor-of-strings](https://www.google.com/url?q=https://leetcode.com/problems/greatest-common-divisor-of-strings/&sa=D&source=editors&ust=1791928328867000&usg=AOvVaw2O3ZiXzMKZsNOT0D_fc7y2)
