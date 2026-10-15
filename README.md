@@ -223,3 +223,8 @@
 1.[find-the-town-judge](https://www.google.com/url?q=https://leetcode.com/problems/find-the-town-judge/&sa=D&source=editors&ust=1791928328866903&usg=AOvVaw0b5vz9ipJ-he9888hJE6J5)
 
 2.[greatest-common-divisor-of-strings](https://www.google.com/url?q=https://leetcode.com/problems/greatest-common-divisor-of-strings/&sa=D&source=editors&ust=1791928328867000&usg=AOvVaw2O3ZiXzMKZsNOT0D_fc7y2)
+
+### Day 46
+1.[prime-number-of-set-bits-in-binary-representation](https://www.google.com/url?q=https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/&sa=D&source=editors&ust=1792074622224342&usg=AOvVaw2zYk7yglVAQ9mI7ns41FhF)
+
+2.[greatest-common-divisor-of-strings](https://www.google.com/url?q=https://leetcode.com/problems/find-center-of-star-graph/&sa=D&source=editors&ust=1792074622224128&usg=AOvVaw14K93ye4Oysj7jZgAxWXU2)
