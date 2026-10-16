@@ -228,3 +228,8 @@
 1.[prime-number-of-set-bits-in-binary-representation](https://www.google.com/url?q=https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/&sa=D&source=editors&ust=1792074622224342&usg=AOvVaw2zYk7yglVAQ9mI7ns41FhF)
 
 2.[greatest-common-divisor-of-strings](https://www.google.com/url?q=https://leetcode.com/problems/find-center-of-star-graph/&sa=D&source=editors&ust=1792074622224128&usg=AOvVaw14K93ye4Oysj7jZgAxWXU2)
+
+### Day 47
+1.[number-of-substrings-containing-all-three-characters](https://www.google.com/url?q=https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/&sa=D&source=editors&ust=1792125743312272&usg=AOvVaw0dioAWlV5rnFbYT9fOtyZv)
+
+2.[number-of-1-bits](https://www.google.com/url?q=https://leetcode.com/problems/number-of-1-bits/&sa=D&source=editors&ust=1792125743312494&usg=AOvVaw234LvJcJBSC2ZaKnxZdri0)
