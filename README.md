@@ -233,3 +233,8 @@
 1.[number-of-substrings-containing-all-three-characters](https://www.google.com/url?q=https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/&sa=D&source=editors&ust=1792125743312272&usg=AOvVaw0dioAWlV5rnFbYT9fOtyZv)
 
 2.[number-of-1-bits](https://www.google.com/url?q=https://leetcode.com/problems/number-of-1-bits/&sa=D&source=editors&ust=1792125743312494&usg=AOvVaw234LvJcJBSC2ZaKnxZdri0)
+
+### Day 48
+1.[check-if-it-is-a-good-array](https://www.google.com/url?q=https://leetcode.com/problems/check-if-it-is-a-good-array/&sa=D&source=editors&ust=1792256526565516&usg=AOvVaw0aAUeq96JmEsHevSWoyD_z)
+
+2.[hamming-distance](https://leetcode.com/problems/hamming-distance/description/)
