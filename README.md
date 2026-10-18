@@ -244,4 +244,8 @@
 
 2.[single-number](https://leetcode.com/problems/single-number/description/)
 
+### Day 50
+1.[break-a-palindrome](https://www.google.com/url?q=https://leetcode.com/problems/break-a-palindrome/&sa=D&source=editors&ust=1792339785179975&usg=AOvVaw0zs8LLF66SXJONA0PHl2t9)
+
+2.[number-complement](https://leetcode.com/problems/number-complement/description/)
 
