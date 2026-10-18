@@ -238,3 +238,10 @@
 1.[check-if-it-is-a-good-array](https://www.google.com/url?q=https://leetcode.com/problems/check-if-it-is-a-good-array/&sa=D&source=editors&ust=1792256526565516&usg=AOvVaw0aAUeq96JmEsHevSWoyD_z)
 
 2.[hamming-distance](https://leetcode.com/problems/hamming-distance/description/)
+
+### Day 49
+1.[count-primes](https://www.google.com/url?q=https://leetcode.com/problems/count-primes/&sa=D&source=editors&ust=1792291929034979&usg=AOvVaw2fiwWJZcOc7ipU_ismiVVk)
+
+2.[single-number](https://leetcode.com/problems/single-number/description/)
+
+
